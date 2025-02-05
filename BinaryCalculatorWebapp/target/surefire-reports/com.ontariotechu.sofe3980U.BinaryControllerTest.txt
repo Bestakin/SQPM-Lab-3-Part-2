@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.ontariotechu.sofe3980U.BinaryControllerTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.794 s <<< FAILURE! - in com.ontariotechu.sofe3980U.BinaryControllerTest
+testMultiplyAPI(com.ontariotechu.sofe3980U.BinaryControllerTest)  Time elapsed: 0.031 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<404>
+	at com.ontariotechu.sofe3980U.BinaryControllerTest.testMultiplyAPI(BinaryControllerTest.java:50)
+
